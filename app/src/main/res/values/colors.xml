@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorPrimary">#fcfcfc</color>
+    <color name="colorPrimaryDark">#aaa</color>
+    <color name="colorAccent">#EF5D2F</color>
+
+    <color name="myColorAccent"     >#EF5D2F</color>  <!-- RGB  239,58,93 -->
+    <color name="myColorDark"       >#1E1E1E</color>  <!-- rgba 0.66      -->
+    <color name="myColorPrimaryWeak">#A9A9A9</color>  <!-- rgba 0.12      -->
+    <color name="myColorPrimary"    >#6B6B6B</color>  <!-- rgba 0.42      -->
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="defaultButton" parent="Base.TextAppearance.AppCompat.Button">
+        <item name="android:background">@drawable/default_button</item>
+    </style>
+    <!--<style name="Talk_Button"></style>-->
+    <!--<style name="Book_Button"></style>-->
+    <!--<style name="hero_name"></style>-->
+
+</resources>
